@@ -1,5 +1,7 @@
 <?php
 
 class Broj {
-    #code
+    function __constructor(){
+        
+    }
 }
